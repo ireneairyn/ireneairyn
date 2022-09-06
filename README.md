@@ -1,4 +1,4 @@
-- 👋 Hi, I'm a bilingual teacher/translator.
+- 👋 Hi, I'm a bilingual English-Spanish teacher/translator.
 - 👀 I’m interested in languages, filmmaking and programming.
 - 🌱 I’m currently learning Javascript and Python.
 - 📫 How to reach me -> [ireneenglish.com
